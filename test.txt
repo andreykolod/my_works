@@ -1,4 +1,3 @@
-TESTS
-test
-asdasd
-asdasd
+"TEST" 
+-e "test" 
+testing
